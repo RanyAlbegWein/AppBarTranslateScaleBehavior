@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppBarTranslateScaleBehaviorDemo</string>
+    <string name="bio">
+Israeli-born Yair Albeg Wein represents the new generation of composers who combine their unique traditional musical training with the gift of technological shrewdness. Yair grew up in a house with a long tradition for the arts, his mother a graduate pianist and educator of the prestigious Warsaw Music Academy, his uncle Yossi Wein, a world-renowned cinematographer and filmmaker. Since early age, Yair has shown impeccable musical abilities, from playing the recorder to wining first prize competitions for classical guitar in which he was rated as the best guitar player in Israel for his age group. Yair attended the "Jerusalem Music Academy".\n\n
+​
+​
+Yair has a wide record of credits from Israel to London to Hollywood; his scores are featured in Israeli TV Shows, feature films and worldwide advertisement campaigns. Yair’s music is also featured in some of the most exclusive catalogs of the industry such as Sonic Symphony, Really Slow Motion, Demented Sound Mafia and Warner Bros.\n\n
+​
+​
+Yair create works that thrives at the intersection of music and film, advertisements, video games and other media needs. “I believe that music is what underlies the lives of everyone, whether consciously or subconsciously. Music is the most powerful element of human communication. I was drawn to write music for film and digital media since it directly employs and amplifies that aspect of music, communicating ideas and conveying emotions.”
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_collapsing_toolbar">Yair Albeg Wein</string>
+    <string name="about">ABOUT</string>
+</resources>

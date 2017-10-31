@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="app_bar_height">250dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="margin_text">16dp</dimen>
+
+</resources>

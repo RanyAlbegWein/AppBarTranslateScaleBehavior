@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppBarTranslateScaleBehavior</string>
+    <string name="appbar_translate_scale_behavior" translatable="false">com.rany.albeg.wein.appbartranslatescalebehavior.AppBarTranslateScaleBehavior</string>
+</resources>
