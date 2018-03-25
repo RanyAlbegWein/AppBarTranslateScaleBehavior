@@ -21,6 +21,8 @@ The following explanation uses the terms *source-view* and *destination-view*.
 [ ![Download](https://api.bintray.com/packages/ranyalbegwein/AppBarTranslateScaleBehavior/appbar-translate-scale-behavior/images/download.svg) ](https://bintray.com/ranyalbegwein/AppBarTranslateScaleBehavior/appbar-translate-scale-behavior/_latestVersion)
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-AppBarTranslateScaleBehavior-green.svg?style=flat )]( https://android-arsenal.com/details/1/6391 )
 
+<a href='https://ko-fi.com/E1E0B4X4' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi4.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
 1. Edit your *build.gradle* to include the library and sync.
 
 ```
@@ -42,9 +44,8 @@ Or with Maven:
 
 ```xml
             <android.support.v7.widget.Toolbar
-            	... 
-		>
-		<!-- Destination View start -->
+            	... >
+				<!-- Destination View start -->
                 <View
                     android:id="@+id/v_destination_profile_image"
                     android:layout_width="32dp"
